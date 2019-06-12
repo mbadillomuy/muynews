@@ -1,3 +1,4 @@
+{
 news: [{
                     title: 'MUY Tech anunció nuevo cierre de ronda de financiación por US$4 millones',
                     summary: 'La operación fue liderada por el fondo de Capital Seaya Ventures',
@@ -11,3 +12,4 @@ news: [{
                     image: 'https://imgcdn.larepublica.co/i/1920/2019/04/26200808/MUY-JGC-Press-Release-Abrilok.jpg',
                     link: 'https://www.larepublica.co/empresas/muy-tech-anuncio-nuevo-cierre-de-ronda-de-financiacion-por-us4-millones-2856060'
                 }]
+}
