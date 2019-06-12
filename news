@@ -1,19 +1,13 @@
-{
-  news: [
-  {
-    title: 'Tecnología de los Almuerzos Muy',
-    summary:,
-    source: 'El Tiempo',
-    image:,
-    link: 'https://www.eltiempo.com/tecnosfera/asi-funciona-la-cadena-de-almuerzos-muy-en-bogota-359126?cid=SOC_PRP_POS-MAR_ETW_WHATSAPP
-'
-  },
-  {
-    title: '',
-    summary: '',
-    source: '',
-    image: '',
-    link: ''
-  },
-  ]
-}
+news: [{
+                    title: 'MUY Tech anunció nuevo cierre de ronda de financiación por US$4 millones',
+                    summary: 'La operación fue liderada por el fondo de Capital Seaya Ventures',
+                    source: 'https://www.larepublica.co',
+                    image: 'https://imgcdn.larepublica.co/i/1920/2019/04/26200808/MUY-JGC-Press-Release-Abrilok.jpg',
+                    link: 'https://www.larepublica.co/empresas/muy-tech-anuncio-nuevo-cierre-de-ronda-de-financiacion-por-us4-millones-2856060'
+                }, {
+                    title: 'MUY Tech anunció nuevo cierre de ronda de financiación por US$4 millones',
+                    summary: 'La operación fue liderada por el fondo de Capital Seaya Ventures',
+                    source: 'https://www.larepublica.co',
+                    image: 'https://imgcdn.larepublica.co/i/1920/2019/04/26200808/MUY-JGC-Press-Release-Abrilok.jpg',
+                    link: 'https://www.larepublica.co/empresas/muy-tech-anuncio-nuevo-cierre-de-ronda-de-financiacion-por-us4-millones-2856060'
+                }]
