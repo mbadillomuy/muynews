@@ -1,19 +1,18 @@
 {
-  'news': [
+  "news": [
   {
-    'title': 'Tecnología de los Almuerzos Muy',
-    'summary':,
-    'source': 'El Tiempo',
-    'image':,
-    'link': 'https://www.eltiempo.com/tecnosfera/asi-funciona-la-cadena-de-almuerzos-muy-en-bogota-359126?cid=SOC_PRP_POS-MAR_ETW_WHATSAPP
-'
+    "title": "Tecnología de los Almuerzos Muy",
+    "summary":"",
+    "source": "El Tiempo",
+    "image":,""
+    "link": "https://www.eltiempo.com/tecnosfera/asi-funciona-la-cadena-de-almuerzos-muy-en-bogota-359126?cid=SOC_PRP_POS-MAR_ETW_WHATSAPP"
   },
   {
-    'title': '',
-    'summary': '',
-    'source': '',
-    'image': '',
-    'link': ''
+    "title": "",
+    "summary": "",
+    "source": "",
+    "image': "",
+    "link": ""
   },
   ]
 }
